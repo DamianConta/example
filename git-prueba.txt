@@ -1,0 +1,35 @@
+Hola mundo 1!
+
+git add ----para pasar al stage
+git status--- parasaber el estado
+
+https://www.youtube.com/watch?v=VdGzPZ31ts8
+
+instalar git-scm.com/download
+
+Usar Git Bash consola!!!! No usar el cmd
+
+//Como configurar Git
+
+damia@DESKTOP-6HBCK6L MINGW64 ~
+$ git config --global user.name "Damián Contardi"
+
+damia@DESKTOP-6HBCK6L MINGW64 ~
+$ git config --global user.email damian.contardi@gmail.com
+
+damia@DESKTOP-6HBCK6L MINGW64 ~
+$ git config --global core.editor "code --wait"
+
+damia@DESKTOP-6HBCK6L MINGW64 ~
+$ git config --global -e
+
+damia@DESKTOP-6HBCK6L MINGW64 ~
+$ git config --global core.autocrlf true
+
+
+Para ver todos los comandos
+
+git config -h
+
+ls  // para listar archivos y directorios
+pwd //para saber en que ruta me encuentro
