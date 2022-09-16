@@ -1,7 +1,10 @@
 Hola mundo 1!
 
+
 git add ----para pasar al stage
 git status--- parasaber el estado
+
+ git checkout -- git-prueba.txt  ---para descartar los cambios que hice en working y volver atras
 
 https://www.youtube.com/watch?v=VdGzPZ31ts8
 
