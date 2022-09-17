@@ -1,4 +1,4 @@
-Hola mundo nueva!
+Hola mundo hago un pull request en la rama pull!
 
 
 git add ----para pasar al stage
